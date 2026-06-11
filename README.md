@@ -70,6 +70,6 @@ Currently: IT Systems Lead @ [OXDEA](https://oxdea.gt) · Information Systems st
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexis-david-macz-maldonado)
 [![Email](https://img.shields.io/badge/Email-FF6D00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[contacto@oxdea.gt])
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexismacz_2104/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexismacz_2104/)
 
 📍 Cobán, Alta Verapaz, Guatemala (UTC-6)
