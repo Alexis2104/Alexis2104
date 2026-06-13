@@ -58,7 +58,6 @@ Currently: IT Systems Lead @ [OXDEA](https://oxdea.gt) · Information Systems st
 | [jenkins-cypress-pipeline](https://github.com/Alexis2104/jenkins-cypress-pipeline) | CI/CD pipeline running E2E test suites in Dockerized agents | Jenkins · Cypress · Docker |
 | [slack-ops-notifications](https://github.com/Alexis2104/slack-ops-notifications) | Block Kit notification templates for order, payment, incident and CRM alerts | Slack API · Block Kit · JSON |
 | [sales-chat-analytics](https://github.com/Alexis2104/sales-chat-analytics) | Conversion-rate analysis of WhatsApp sales chats from CSV exports | Python · pandas |
-| [voip-pbx-deployment](https://github.com/Alexis2104/voip-pbx-deployment) | SMB IP telephony deployment: PBX, IVR call routing, IP phone provisioning, full docs | Yeastar · SIP · Fanvil |
 
 ### What I work on
 
